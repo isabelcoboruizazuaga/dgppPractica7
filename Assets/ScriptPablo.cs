@@ -8,6 +8,7 @@ public class ScriptPablo : MonoBehaviour
     void Start()
     {
         Debug.Log("Hola mundo");
+        //adios
     }
 
     // Update is called once per frame
